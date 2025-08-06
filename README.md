@@ -1,4 +1,4 @@
-# AI Doctor with Vision and Voice
+# Medical Vision Chatbot
 
 A multimodal AI application that simulates a doctor consultation experience by combining voice input, medical image analysis, and voice output responses.
 
