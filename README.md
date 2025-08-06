@@ -29,7 +29,7 @@ The application provides a complete consultation workflow:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-doctor-vision-voice.git
+git clone https://github.com/umairs5/medical-vision-chatbot.git
 cd ai-doctor-vision-voice
 ```
 
